@@ -12,4 +12,4 @@
 
 - ALTER ROLE your_user_name  SET timezone TO 'UTC';
 
-- GRANT ALL PRIVILEGES ON DATABASE your_user_name TO your_database_name;
+- GRANT ALL PRIVILEGES ON DATABASE your_database_name TO your_user_name;
