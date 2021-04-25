@@ -1,5 +1,7 @@
 # Create-postgres-database
 
+- sudo -u postgres psql
+
 - CREATE DATABASE your_database_name;
 
 - CREATE USER your_user_name WITH PASSWORD 'your_password';
